@@ -1,56 +1,34 @@
 # Hi, I'm Revanth Kankipati
 
-Final-year Computer Science Engineering (AI & ML) student passionate about backend development, software engineering, and building practical solutions to real-world problems.
+Final-year Computer Science Engineering (AI & ML) student focused on Backend Development, Python, Node.js, PostgreSQL, and Software Engineering.
 
-## Currently Working On
-- Backend Engineering with Node.js and Express.js
-- PostgreSQL Database Design
-- REST API Development
+## Current Focus
+- Backend Engineering
+- REST API Design
+- PostgreSQL
 - System Design Fundamentals
 - Daily Problem Solving
 - GATE Preparation
+- Internship Preparation
 
 ## Featured Projects
-
-### LifeStack
-A personal productivity platform that combines task management, habit tracking, workout tracking, study sessions, and application tracking into a unified system.
-
-### EduTrack
-An academic management system with role-based access control, attendance management, grade tracking, and reporting features.
-
-### SmartSpend
-An expense tracking application that categorizes transactions, monitors budgets, and provides spending insights.
+- LifeStack
+- EduTrack
+- SmartSpend
 
 ## Tech Stack
-
-**Languages**
 - Python
 - JavaScript
-- C#
-
-**Backend**
 - Node.js
 - Express.js
+- PostgreSQL
+- MongoDB
+- Git
+- GitHub
 - REST APIs
 - JWT Authentication
 
-**Databases**
-- PostgreSQL
-- MongoDB
-- SQL
-
-**Tools**
-- Git
-- GitHub
-- Postman
-- VS Code
-
-## Current Goal
-
-Building production-ready backend projects with clean architecture, documentation, testing, and deployment while preparing for internships and software engineering roles.
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/revanth-kankipati-42b1452b9
-- GitHub: github.com/revanthkankipati
+## Connect
+- LinkedIn: https://www.linkedin.com/in/revanth-kankipati-42b1452b9
+- GitHub: https://github.com/revanthkankipati
 - Email: rohithkankipati3@gmail.com
