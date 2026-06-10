@@ -1,16 +1,20 @@
 ## Hi there 👋
+# Hi, I'm Revanth Kankipati
 
-<!--
-**revanthkankipati/RevanthKankipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student focused on Backend Development, Python, Node.js, PostgreSQL, and Software Engineering.
 
-Here are some ideas to get you started:
+## Current Focus
+- Backend Engineering
+- REST API Design
+- PostgreSQL
+- System Design Fundamentals
+- GATE Preparation
+- Internship Preparation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- LifeStack
+- EduTrack
+- SmartSpend
+
+## Tech Stack
+Python • JavaScript • Node.js • Express.js • PostgreSQL • MongoDB • Git
